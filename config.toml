@@ -1,0 +1,52 @@
+baseURL = "/"
+theme = "hugo-whisper-theme"
+languageCode = "en-us"
+title = "Plan Bolo 2024"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
+
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 30
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = 'https://t.me/SatoshiSpritzBologna'
+  homepage_button_text = 'Gruppo Telegram'
+  homepage_intro = 'Il Plan Bolo é un evento Bitcoin volto a tutto il pubblico di persone interessate a scoprire questa tecnologia tramite un esperimento di economia circolare. Vieni a fare aperitivo e a fare due chiacchere mentre compi e vendi merci in bitcoin!'
+  homepage_image = ''
+
+  ## You can enable to add anchor links to header elements
+  # enable_anchor_link = true
+
+  [params.homepage_meta_tags]
+    meta_description = "PLan Bolo é un evento bitcoin a bologna riguardante le economie circolari."
+    meta_og_title = "Plan Bolo 2024"
+    meta_og_type = "website"
+    meta_og_url = "https://hugo-whisper.netlify.app"
+    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
+    meta_og_description = "PLan Bolo é un evento bitcoin a bologna riguardante le economie circolari."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@turtlecute33"
+    meta_twitter_creator = "@turtlecute33"
+
+  [params.logo]
+      mobile = "/images/logo-mobile.svg"
+      standard  = "/images/logo.svg"
+
+  [params.footer]
+    copyright_text = 'Fatto da Bitcoiner, ma per tutti'
+
