@@ -39,8 +39,8 @@ summaryLength = 30
     meta_twitter_creator = "@turtlecute33"
 
   [params.logo]
-      mobile = ""
-      standard  = ""
+      mobile = "https://cdn.worldvectorlogo.com/logos/bitcoin-lightning-accepted-here-2.svg"
+      standard  = "https://cdn.worldvectorlogo.com/logos/bitcoin-lightning-accepted-here-2.svg"
 
   [params.footer]
     copyright_text = 'Fatto da Bitcoiner, ma per tutti'
