@@ -11,4 +11,4 @@ Sabato 29 Giugno 2024 presso i Giardini Margherita di Bologna ci sará il PlanBo
 
 Saranno presenti molti volti noti del mondo Bitcoin ma l'idea é quella di costruire questo bel posto nel verde di bologna dove stupire i no-coiner mostrando in prima persona l'utilizzo pratico di bitcoin.
 
-Vi aspettiamo!
+Vi aspettiamo!🧡
