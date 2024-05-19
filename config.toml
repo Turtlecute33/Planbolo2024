@@ -17,13 +17,8 @@ pygmentsUseClasses = true
 summaryLength = 30
 
 [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-
 
 [params]
-  google_analytics_id=""
   homepage_button_link = 'https://t.me/SatoshiSpritzBologna'
   homepage_button_text = 'Gruppo Telegram'
   homepage_intro = 'Il Plan Bolo é un evento Bitcoin volto a tutto il pubblico di persone interessate a scoprire questa tecnologia tramite un esperimento di economia circolare. Vieni a fare aperitivo e a fare due chiacchere mentre compi e vendi merci in bitcoin!'
@@ -44,8 +39,8 @@ summaryLength = 30
     meta_twitter_creator = "@turtlecute33"
 
   [params.logo]
-      mobile = "/images/logo-mobile.svg"
-      standard  = "/images/logo.svg"
+      mobile = ""
+      standard  = ""
 
   [params.footer]
     copyright_text = 'Fatto da Bitcoiner, ma per tutti'
