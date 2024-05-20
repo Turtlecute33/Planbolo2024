@@ -3,7 +3,7 @@ title: 'Plan Bolo 2024'
 date: 2018-11-28T15:14:39+10:00
 ---
 
-Il Plan Bolo é un evento Bitcoin volto a tutto il pubblico di persone interessate a scoprire questa tecnologia tramite un esperimento di economia circolare. Vieni a fare aperitivo e a fare due chiacchere mentre compri e vendi merci in bitcoin!
+Il Plan Bolo é un evento Bitcoin rivolto a chiunque sia interessato a scoprire questa tecnologia tramite un esperimento di economia circolare. Puoi venire a fare aperitivo e due chiacchiere e puoi anche acquistare al nostro mercatino in bitcoin!
 
 ![](https://i.imgur.com/GGdw55o.jpeg)
 
