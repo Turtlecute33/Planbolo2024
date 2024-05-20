@@ -15,8 +15,8 @@ L’occasione sarà il Gardens Sport Festival, che si svolge ai Giardini Marghe
 
 Per tutta la durata della manifestazione saranno presenti **quattro attività** di ristorazione e tutte **accetteranno bitcoin**. In questa cornice, dopo l’entusiasmo della “versione 0” dello scorso anno, **sabato 29 giugno ritorna Plan Bolo 2024**, un vero e proprio evento dedicato a bitcoin. Durante la giornata, oltre a cibo e bevande, sarà anche possibile **acquistare** vestiti, libri, generi alimentari, giocattoli per bambini e molto altro, sempre **utilizzando bitcoin**.
 
-Inoltre, verrà attrezzato un punto informativo a cui rivolgersi per fugare eventuali dubbi su questa nuova tecnologia. A fine giornata, metà dell'incasso ricavato dalla vendita delle bevande sarà devoluto a un’associazione umanitaria che promuove la conoscenza del protocollo Bitcoin in Paesi in via di sviluppo.
+Inoltre, verrà attrezzato un **punto informativo** a cui rivolgersi per fugare eventuali dubbi su questa nuova tecnologia. A fine giornata, metà dell'incasso ricavato dalla vendita delle bevande sarà devoluto a un’associazione umanitaria che promuove la conoscenza del protocollo Bitcoin in Paesi in via di sviluppo.
 
-Attraverso questa iniziativa, che è prima di tutto una festa, Bologna si propone di raccontare Bitcoin in modo diverso, esattamente per ciò che è. Senza la pretesa di insegnare concetti complicati, ma solo con l'intento di dimostrare come questa scoperta possa integrarsi armoniosamente nella vita di tutti i giorni, offrendo un’alternativa semplice e utile alle transazioni quotidiane.
+Attraverso questa iniziativa, che è prima di tutto una festa, Bologna si propone di **raccontare Bitcoin in modo diverso**, esattamente per ciò che è. Senza la pretesa di insegnare concetti complicati, ma solo con l'intento di dimostrare come questa scoperta possa integrarsi armoniosamente nella vita di tutti i giorni, offrendo un’alternativa semplice e utile alle transazioni quotidiane.
  
-Plan Bolo non è solo un evento, ma anche la visione di chi guarda al futuro con curiosità, apertura e ottimismo, pronto semplicemente ad accogliere le opportunità che la tecnologia ci riserva.
+Plan Bolo non è solo un evento, ma anche la **visione di chi guarda al futuro con curiosità, apertura e ottimismo**, pronto semplicemente ad accogliere le opportunità che la tecnologia ci riserva.
