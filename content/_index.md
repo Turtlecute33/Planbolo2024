@@ -8,7 +8,9 @@ Il Plan Bolo è un evento dedicato a chiunque voglia scoprire Bitcoin attraver
 ![](https://i.imgur.com/GGdw55o.jpeg)
 
 📅 Sabato 14 giugno
+
 📍 Giardini Margherita, Bologna
+
 🕕 Dalle 18:00 fino all'1:00
 
 Sabato 14 giugno, oltre a cibo e bevande, sarà possibile acquistare vestiti, libri, giocattoli etc nel nostro mercatino e divertirsi in una piccola sala giochi, il tutto **Bitcoin** only.
