@@ -20,7 +20,7 @@ summaryLength = 30
 
 [params]
   homepage_button_link = 'https://t.me/SatoshiSpritzBologna'
-  homepage_button_text = 'Gruppo Telegram'
+  homepage_button_text = 'Donazioni'
   homepage_intro = "Il Plan Bolo è un evento dedicato a chiunque voglia scoprire Bitcoin attraverso un esperimento di economia circolare. Un'occasione per fare aperitivo, chiacchierare e fare acquisti in Bitcoin."
   homepage_image = ''
 
