@@ -1,7 +1,7 @@
 baseURL = "planbolo.priorato.org"
 theme = "hugo-whisper-theme"
 languageCode = "en-us"
-title = "Plan Bolo 2024"
+title = "Plan Bolo 2025"
 
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
@@ -21,7 +21,7 @@ summaryLength = 30
 [params]
   homepage_button_link = 'https://t.me/SatoshiSpritzBologna'
   homepage_button_text = 'Gruppo Telegram'
-  homepage_intro = 'Il Plan Bolo é un evento Bitcoin volto a tutto il pubblico di persone interessate a scoprire questa tecnologia tramite un esperimento di economia circolare. Vieni a fare aperitivo e a fare due chiacchere mentre compi e vendi merci in bitcoin!'
+  homepage_intro = "Il Plan Bolo è un evento dedicato a chiunque voglia scoprire Bitcoin attraverso un esperimento di economia circolare. Un'occasione per fare aperitivo, chiacchierare e fare acquisti in Bitcoin."
   homepage_image = ''
 
   ## You can enable to add anchor links to header elements
@@ -29,7 +29,7 @@ summaryLength = 30
 
   [params.homepage_meta_tags]
     meta_description = "PLan Bolo é un evento bitcoin a bologna riguardante le economie circolari."
-    meta_og_title = "Plan Bolo 2024"
+    meta_og_title = "Plan Bolo 2025"
     meta_og_type = "website"
     meta_og_url = "https://hugo-whisper.netlify.app"
     meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
